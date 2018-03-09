@@ -6,7 +6,7 @@ I'm looking forward to getting to know you, and this document is not intended to
 TL;DR: I am here to make sure our team is successful, happy, and working on the things that are most important to improve our product and our business. More granularly:
 
 1. I am here to make sure you are both successful and happy: I want you to improve your technical skills, grow your career, enjoy your work, and believe in both our company's and our team's mission.
-2. I am here to make sure our team is successful and pointed in the right direction. You might hear Dharmesh talking about [aligning vectors](https://thinkgrowth.org/what-elon-musk-taught-me-about-growing-a-business-c2c173f5bff3): I am here to make sure our team is all aligned and pushing in the same direction.<a href="#note1">\*</a>
+2. I am here to make sure our team is successful and pointed in the right direction. You might hear Dharmesh talking about [aligning vectors](https://thinkgrowth.org/what-elon-musk-taught-me-about-growing-a-business-c2c173f5bff3): I am here to make sure our team is all aligned and pushing in the same direction.<sup><a href="#note1">1.</a></sup>
 3. I am here to make sure our team is getting what we need from other teams, and that other teams are getting what they need from us.
 4. I write some code too :smiley:
 
@@ -26,12 +26,14 @@ I am usually in the office between 11am and 6pm.<sup><a href="#diversity">(note)
 
 As for your schedule: do what works for you, but use good judgment. If you're a night owl and you choose to work from 9pm to 5am, that might not work so well. But if you're a night owl who would rather be in the office closer to 11am—6pm, or a morning person who'd rather be in closer to 7am–3pm, that is fine with me. Same goes for if you're trying to avoid rush hour, need to drop off your kids at school or daycare, etc.
 
-Similarly, if you want to work from home sometimes, do so! Working from home at least once a week is pretty much a necessity for me, and if it helps your work, please do so as well! On the other hand, if you're not productive when you work from home, come in to the office and expect a normal day—when I am (or others on our team are) working from home, schedule meetings etc. as normal—videoconferencing means we can be similarly available as if we were in the office.
+Similarly, if you want to work from home sometimes, do so! Working from home at least once a week is pretty much a necessity for me, and if it helps your work, please do so as well! On the other hand, if you're not productive when you work from home, or if you can't be available for video meetings, come in to the office. Regardless of whether the rest of the team is working from home or not, you can expect a normal day—schedule meetings etc. as normal—videoconferencing means folks who work from home will be similarly available as if we were in the office.<sup><a href="#note2">2</a></sup>
 
 ## One-on-ones
 I will put some time on your calendar each week for one-on-ones. Chances are it will be for 30 minutes once a week. If you need more time, let me know and I will adjust.
 
 One-on-ones are *your time*. I will probably have some things to discuss with you, but these are your opportunities to let me know how you're doing, what you need, what you wish could be different, how you feel about our team and your teammates, what your career goals are... etc. These are for the conversations you might not necessarily have with me when we're sitting at our desks amongst coworkers. If you'd like to give me a brief status update on things you're working on, that is fine with me, but those are generally better-suited to a quick chat while I'm at my desk, an @ on a Github issue, or a Slack message.
+
+I encourage you to write down some things you want to chat about ahead of time, because they can be hard to think of or bring up in the moment. If you struggle with bringing them up, feel free to send me a vague agenda ahead of time. If you don't know what to talk about, say so. We can use that as a topic.
 
 These are some interesting articles I've read about one-on-ones, though I don't necessarily agree with all of the points: [1](https://getlighthouse.com/blog/effective-1-on-1-meetings/), [2](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c). If you have thoughts on either, that might make a good topic to include in a one-on-one!
 
@@ -61,3 +63,4 @@ Take this document with a grain of salt: I wrote it! I have never experienced ha
 ## Notes
 
 <a id="note1">1.</a> I thought I'd manage to write this document to be HubSpot-agnostic and I've failed in line 6...
+<a id="note2">2.</a> Caveat here is if you're hoping to meet with folks in offices on different time zones—if that's the case, you should try as much as you can to find a meeting time that works for both time zones.

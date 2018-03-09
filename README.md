@@ -63,4 +63,5 @@ Take this document with a grain of salt: I wrote it! I have never experienced ha
 ## Notes
 
 <a id="note1">1.</a> I thought I'd manage to write this document to be HubSpot-agnostic and I've failed in line 6...
+
 <a id="note2">2.</a> Caveat here is if you're hoping to meet with folks in offices on different time zones—if that's the case, you should try as much as you can to find a meeting time that works for both time zones.

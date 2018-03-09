@@ -6,7 +6,7 @@ I'm looking forward to getting to know you, and this document is not intended to
 TL;DR: I am here to make sure our team is successful, happy, and working on the things that are most important to improve our product and our business. More granularly:
 
 1. I am here to make sure you are both successful and happy: I want you to improve your technical skills, grow your career, enjoy your work, and believe in both our company's and our team's mission.
-2. I am here to make sure our team is successful and pointed in the right direction. You might hear @dharmeshs talking about [aligning vectors](https://thinkgrowth.org/what-elon-musk-taught-me-about-growing-a-business-c2c173f5bff3): I am here to make sure our team is all aligned and pushing in the same direction.\*
+2. I am here to make sure our team is successful and pointed in the right direction. You might hear Dharmesh talking about [aligning vectors](https://thinkgrowth.org/what-elon-musk-taught-me-about-growing-a-business-c2c173f5bff3): I am here to make sure our team is all aligned and pushing in the same direction.\*
 3. I am here to make sure our team is getting what we need from other teams, and that other teams are getting what they need from us.
 4. I write some code too :smiley:
 

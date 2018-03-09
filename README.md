@@ -21,10 +21,29 @@ If you can give me this feedback in-person, I'd prefer that. If you're only comf
 
 If you're not comfortable giving me this feedback yourself, I'd love for you to give it to someone above me in the management chain so they can anonymously relay it to me and I can work on it.
 
+## Schedule
+You can usually count on me being in the office between 11am and 6pm on days where I am not working from home. I am often in the office earlier or later, but with some exceptions these tend to be the hours you can count on finding me. I do usually work from home once or twice a week (more on that later).
+
+As for your schedule: do what works for you, but use good judgment. If you're a night owl and you choose to work from 9pm to 5am, that might not work so well. But if you're a night owl who would rather be in the office closer to 11am—6pm, or a morning person who'd rather be in closer to 7am–3pm, that is fine with me. Same goes for if you're trying to avoid rush hour, need to drop off your kids at school or daycare, etc.
+
+Similarly, if you want to work from home sometimes, do so! Working from home at least once a week is pretty much a necessity for me, and if it helps your work, please do so as well! On the other hand, if you're not productive when you work from home, come in to the office and expect a normal day—when I am (or others on our team are) working from home, schedule meetings etc. as normal—videoconferencing means we can be similarly available as if we were in the office.
+
+## One-on-ones
+I will put some time on your calendar each week for one-on-ones. Chances are it will be for 30 minutes once a week. If you need more time, let me know and I will adjust.
+
+One-on-ones are *your time*. I will probably have some things to discuss with you, but these are your opportunities to let me know how you're doing, what you need, what you wish could be different, how you feel about our team and your teammates, what your career goals are... etc. These are for the conversations you might not necessarily have with me when we're sitting at our desks amongst coworkers. If you'd like to give me a brief status update on things you're working on, that is fine with me, but those are generally better-suited to a quick chat while I'm at my desk, an @ on a Github issue, or a Slack message.
+
+These are some interesting articles I've read about one-on-ones, though I don't necessarily agree with all of the points: [1](https://getlighthouse.com/blog/effective-1-on-1-meetings/), [2](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c). If you have thoughts on either, that might make a good topic to include in a one-on-one!
+
 ## Work–life balance
 I strongly believe in a healthy work–life balance. This can mean a lot of things: coming into the office a little late because you're a zombie before 10am (guilty...), leaving by 5pm so you can pick your kids up from daycare, not being on call some days because of your religion, taking time off to maintain your health, etc.
 
 Let me know if you need any help to make this work. I don't want you working ridiculous hours, and I don't want you working at the expense of your family/health/beliefs/etc.
+
+If you are unhappy, please let me know.
+
+## Performance
+I will give you feedback on how you're doing in our one-on-ones. If I'm worried about your performance, I will let you know. If you worry that I'm worried about your performance, please let me know.
 
 ## If you need something
 Some weeks, my schedule can be pretty full. Other weeks it's not so bad. If you need to chat, you have a few options.

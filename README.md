@@ -12,7 +12,7 @@ TL;DR: I am here to make sure our team is successful, happy, and working on the 
 
 These are in approximate order of importance. If you are not successful and happy, our team is not successful (or happy). If our team is struggling, writing code will most likely not be my top priority.
 
-Additionally: My job is *not* to tell you exactly what to do and how to do it. It is also not to be the "official decision maker" for our team.
+Additionally: My job is *not* to tell you exactly what to do and how to do it. It is also not to be the "official decision maker" for our team. I might have thoughts on your code, and I expect you to have thoughts on mine. In the end, you own your code and if you have a good reason for doing something, you should do it.
 
 ## Feedback
 If you have feedback for me, please give it. It could be something you liked and would like to see more of, something you thought I could do better, something you thought I totally screwed up, or something that doesn't fit in any of these categories. Even if you think it might not be the case, I *do* want to hear it. And if you think I don't want to hear it, I'd love feedback on why you feel that way!

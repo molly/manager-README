@@ -22,7 +22,7 @@ If you can give me this feedback in-person, I'd prefer that. If you're only comf
 If you're not comfortable giving me this feedback yourself, I'd love for you to give it to someone above me in the management chain so they can anonymously relay it to me and I can work on it.
 
 ## Schedule
-You can usually count on me being in the office between 11am and 6pm on days where I am not working from home. I am often in the office earlier or later, but with some exceptions these tend to be the hours you can count on finding me. I do usually work from home once or twice a week (more on that later).
+I am usually in the office between 11am and 6pm.[(note)](#Diversity, and also my schedule) I am often in the office earlier or later, but with some exceptions these tend to be the hours you can count on finding me. I do usually work from home once or twice a week ([more on that later](#Diversity, and also my schedule)).
 
 As for your schedule: do what works for you, but use good judgment. If you're a night owl and you choose to work from 9pm to 5am, that might not work so well. But if you're a night owl who would rather be in the office closer to 11am—6pm, or a morning person who'd rather be in closer to 7am–3pm, that is fine with me. Same goes for if you're trying to avoid rush hour, need to drop off your kids at school or daycare, etc.
 
@@ -51,6 +51,9 @@ Some weeks, my schedule can be pretty full. Other weeks it's not so bad. If you 
 1. Snag me at my desk. An important thing to know about me: if I have headphones on, it does *not* mean I am "in the zone" or expect not to be interrupted. I'm probably just enjoying some music! Feel free to grab my attention (preferably by waving in my periphery or tapping my desk—I get a little startled sometimes if someone unexpectedly taps me :neutral_face:) If I'm about to have to run off for a meeting or somesuch, I'll let you know and figure out a better time to chat.
 2. Slack me or email me. Even if you want an in-person meeting, just message me to let me know you want to talk and I'll make time. If you would rather talk about something over email or message, that's fine too.
 3. Throw something on my calendar. If I am scheduled for an interview or a businessy meeting and you invite me to a meeting, I may chat with you and reschedule. If you see that I've blocked off the day as a "meeting-free day", that does not apply to you—it's more to discourage folks from scheduling non-urgent meetings that day that could be scheduled otherwise. If you need to talk, schedule over this as much as you need.
+
+## Diversity, and also my schedule
+Diversity and inclusion are extremely important to me. I would not necessarily mention this in my README, except that it ties in a bit with my schedule: I choose to work from home once a week (occasionally twice, or for a half-day) because it helps me manage [my anxiety disorder](https://adaa.org/understanding-anxiety/generalized-anxiety-disorder-gad#), which I prefer to be open about. This will not affect our working relationship–I will be available on Slack or in the office regardless of whether I am in the office or not.
 
 ## Caveat
 Take this document with a grain of salt: I wrote it! I have never experienced having me as a manager. If I'm your TL and something here seems off, open a pull request or issue, or (probably more comfortably) bring it up to me in one-on-one or over Slack.

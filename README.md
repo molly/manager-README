@@ -17,7 +17,7 @@ Additionally: My job is _not_ to tell you exactly what to do and how to do it. I
 
 ## Feedback
 
-If you have feedback for me, please give it. It could be something you liked and would like to see more of, something you thought I could do better, something you thought I totally screwed up, or something that doesn't fit in any of these categories. Even if you think it might not be the case, I _do_ want to hear it. And if you think I don't want to hear it, I'd love feedback on why you feel that way!
+If you have feedback for me, please give it. It could be something you liked and would like to see more of, something you thought I could do better, something you thought I totally screwed up, or something that doesn't fit in any of these categories. Even if you think it might not be the case, I _do_ want to hear it. And if you think I don't want to hear it, I'd love feedback on why you feel that way.
 
 If you can give me this feedback in-person, I'd prefer that. If you're only comfortable kicking off a discussion with an email or a Slack message, I would rather you do that than not bring it up at all.
 
@@ -29,7 +29,7 @@ I am usually in the office between 11am and 6pm.<sup><a href="#diversity">(note)
 
 As for your schedule: do what works for you, but use good judgment. If you're a night owl and you choose to work from 9pm to 5am, that might not work so well. But if you're a night owl who would rather be in the office closer to 11am–7pm, or a morning person who'd rather be in closer to 7am–3pm, that is fine with me. Same goes for if you're trying to avoid rush hour, need to drop off your kids at school or daycare, etc.
 
-Similarly, if you want to work from home sometimes, do so! Working from home at least once a week is pretty much a necessity for me, and if it helps your work, please do so as well! On the other hand, if you're not productive when you work from home, or if you can't be available for video meetings when you work from home, come in to the office. Regardless of whether the rest of the team is working from home or not, you can expect a normal day—schedule meetings etc. as normal—videoconferencing means folks who work from home will be similarly available as if we were in the office.<sup><a href="#note1">1</a></sup>
+Similarly, if you want to work from home sometimes, do so. Working from home at least once a week is pretty much a necessity for me, and if it helps your work, please do so as well. On the other hand, if you're not productive when you work from home, or if you can't be available for video meetings when you work from home, come in to the office. Regardless of whether the rest of the team is working from home or not, you can expect a normal day—schedule meetings etc. as normal—videoconferencing means folks who work from home will be similarly available as if we were in the office.<sup><a href="#note1">1</a></sup>
 
 ## One-on-ones
 
@@ -39,7 +39,7 @@ One-on-ones are _your time_. I will probably have some things to discuss with yo
 
 I encourage you to write down some things you want to chat about ahead of time, because they can be hard to think of or bring up in the moment. If you struggle with bringing them up, feel free to send me a vague agenda ahead of time. If you don't know what to talk about, say so. We can use that as a topic.
 
-These are some interesting articles I've read about one-on-ones, though I don't necessarily agree with all of the points: [1](https://getlighthouse.com/blog/effective-1-on-1-meetings/), [2](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c). If you have thoughts on either, that might make a good topic to include in a one-on-one!
+These are some interesting articles I've read about one-on-ones, though I don't necessarily agree with all of the points: [1](https://getlighthouse.com/blog/effective-1-on-1-meetings/), [2](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c). If you have thoughts on either, that might make a good topic to include in a one-on-one.
 
 ## Work–life balance
 
@@ -57,7 +57,7 @@ I will give you feedback on how you're doing in our one-on-ones. If I'm worried 
 
 Some weeks, my schedule can be pretty full. Other weeks it's not so bad. If you need to chat, you have a few options.
 
-1.  Snag me at my desk. An important thing to know about me: if I have headphones on, it does _not_ mean I am "in the zone" or expect not to be interrupted. I'm probably just enjoying some music! Feel free to grab my attention (preferably by waving in my periphery or tapping my desk—I get a little startled sometimes if someone unexpectedly taps me :neutral_face:) If I'm about to have to run off for a meeting or somesuch, I'll let you know and figure out a better time to chat.
+1.  Snag me at my desk. An important thing to know about me: if I have headphones on, it does _not_ mean I am "in the zone" or expect not to be interrupted (I'm probably just enjoying some music). Feel free to grab my attention (preferably by waving in my periphery or tapping my desk—I get a little startled sometimes if someone unexpectedly taps me :neutral_face:) If I'm about to have to run off for a meeting or somesuch, I'll let you know and figure out a better time to chat.
 2.  Slack me or email me. Even if you want an in-person meeting, just message me to let me know you want to talk and I'll make time. If you would rather talk about something over email or message, that's fine too.
 3.  Throw something on my calendar. If I am scheduled for an interview or a businessy meeting and you invite me to a meeting, I may chat with you and reschedule. If you see that I've blocked off the day as a "meeting-free day", that does not apply to you—it's more to discourage folks from scheduling non-urgent meetings that day that could be scheduled otherwise. If you need to talk, schedule over this as much as you need.
 

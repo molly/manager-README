@@ -25,7 +25,7 @@ If you're not comfortable giving me this feedback yourself, I'd love for you to 
 
 ## Schedule
 
-I am usually in the office between 11am and 6pm.<sup><a href="#diversity">(note)</a></sup> I am often in the office earlier or later, but with some exceptions these tend to be the hours you can count on finding me. I do usually work from home once or twice a week <a href="#diversity">(more on that later)</a>.
+I am usually in the office between 11am and 6pm.<sup><a href="#diversity">(note)</a></sup> I am often in the office earlier or later, but with some exceptions these tend to be the hours you can count on finding me. I do usually work from home once or twice a week <a href="#diversity">(more on that later)</a> and I often will head home around 5:30 or 6 and continue working from home after I get dinner going.
 
 As for your schedule: do what works for you, but use good judgment. If you're a night owl and you choose to work from 9pm to 5am, that might not work so well. But if you're a night owl who would rather be in the office closer to 11am–7pm, or a morning person who'd rather be in closer to 7am–3pm, that is fine with me. Same goes for if you're trying to avoid rush hour, need to drop off your kids at school or daycare, etc.
 

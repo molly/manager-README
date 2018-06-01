@@ -63,7 +63,7 @@ Some weeks, my schedule can be pretty full. Other weeks it's not so bad. If you 
 
 ## <a id="diversity">Diversity, and also my schedule</a>
 
-Diversity and inclusion are extremely important to me. I would not necessarily mention this in my README, except that it ties in a bit with my schedule: I choose to work from home once a week if possible (sometimes twice, or for half-days) because it helps me manage [my anxiety disorder](https://adaa.org/understanding-anxiety/generalized-anxiety-disorder-gad#), which I prefer to be open about. This will not affect our working relationship–I will be available on Slack, email, Github, or on video calls regardless of whether I am in the office or not.
+Diversity and inclusion are extremely important to me. I would not necessarily mention this in my README, except that it ties in a bit with my schedule: I choose to work from home once a week if possible (sometimes twice, or for half-days) because it helps me manage [my anxiety disorder](https://adaa.org/understanding-anxiety/generalized-anxiety-disorder-gad#), which I prefer to be open about. This will not affect our working relationship–I will be available on Slack, email, Github, or video calls regardless of whether I am in the office or not.
 
 ## Caveat
 

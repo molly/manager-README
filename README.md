@@ -39,7 +39,7 @@ Regardless of whether the rest of the team is working remotely or not, you can e
 
 ## One-on-ones
 
-I will put some time on your calendar each week for one-on-ones. Chances are it will be for 30 minutes once a week. If you need more time, let me know and I will adjust.
+I will put some time on your calendar each week for one-on-ones. Chances are it will be for 30 minutes once a week. If you need more time, let me know and I will adjust. I will probably schedule our first one-on-one for an hour just to be sure we have time to go over the team mission and other introductory things; don't feel the need to prepare for it.
 
 One-on-ones are _your time_. I will probably have some things to discuss with you, but this is first and foremost your opportunity to let me know how you're doing, what you need, what you wish could be different, how you feel about our team and your teammates, what your career goals are... etc. These are for the conversations you might not necessarily have with me when we're sitting at our desks amongst coworkers. If you'd like to give me a brief status update on things you're working on or that you're stuck on, that is fine with me, but those are generally better-suited to a quick chat while I'm at my desk, an @ on a Github issue, a Slack message, or a separate meeting.
 

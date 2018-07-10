@@ -33,13 +33,7 @@ If you want to give direct feedback but aren't sure how or aren't comfortable do
 
 I am usually in the office between 11am and 6pm. I am often in the office earlier or later, but with some exceptions these tend to be the hours you can count on finding me. I do usually work from home once or twice a week <a href="#diversity">(more on that later)</a> and I often will head home around 5:30 or 6 and continue working from home after I get dinner going.
 
-As for your schedule: do what works for you, and use good judgment. If you're a night owl and you choose to work from 9pm to 5am, that won't work so well because you'll be offset from the rest of the team. But if you're a night owl who would rather work closer to 11am–7pm, a morning person who functions best from 7am–3pm, someone who wants to work from 8–11 and 2–7, and so on... that is fine with me. Same goes for if you need to tweak your schedule to avoid rush hour, drop off your kids at school or daycare, etc. If something about your schedule isn't working for the team, I'll let you know; if you're worried your schedule isn't working for the team, just ask me. If you are an hourly employee (such as an intern or a co-op) you'll have to log the hours you work; you are still encouraged to work at the times that make the most sense for you.
-
-Because of our flexible schedules and various time zones, you can expect me and your other coworkers to be available at disparate times or working remotely. To keep track, we make heavy use of Slack statuses. If you're going to be working remotely, you're on vacation, or you will be away during your normal work hours for a significant chunk of time, it's helpful if you set a Slack status to reflect this. For time zones, I recommend checking the time zone indicator on Slack profiles before pinging someone–it's definitely saved me the remorse of accidentally interrupting a coworker's dinner when I didn't realize they were in a different time zone. We also have a vacation calendar where we record planned absences—I will go over how to use this as a part of your onboarding. The vacation calendar is most important if you're going to be away for a day or more at a time, but a lot of us also use it to record smaller absences such as dentist appointments. Myself and others sometimes also use it to indicate in advance if we're planning to work remotely; this is completely optional—I usually only do this if I know in advance that I'll be remote on a day that I'm normally in the office for meetings.
-
-If you want to work remotely sometimes, do so. Working from home at least once a week is pretty much a necessity for me, and if it helps your work, please do so as well. On the other hand, if you're not productive when you work remotely, or if you can't be available for video meetings, come in to the office.
-
-Regardless of whether the rest of the team is working remotely or not, you can expect a normal day—schedule meetings etc. as normal. Videoconferencing means folks who work remotely will be similarly available as if we were in the office (though if you're meeting with people in different time zones, you should try as much as you can to find a meeting time that works for all). One caveat to this is one-on-ones: I prefer to do these in person if possible, so if you need to work from home on a day we're scheduled for a one-on-one and rescheduling is an option, please let me know so I can reschedule it, or reschedule it yourself during an open slot in my calendar.
+I prefer to do one-on-ones in person if possible, so if you need to work from home on a day we're scheduled for a one-on-one and rescheduling is an option, please let me know so I can reschedule it, or reschedule it yourself during an open slot in my calendar.
 
 ## One-on-ones
 
@@ -50,22 +44,6 @@ One-on-ones are _your time_. I will probably have some things to discuss with yo
 I encourage you to write down some things throughout the week that you want to chat about if you think that will help; it can be hard to think of or bring up things in the moment. If you have things you want to talk about but struggle with bringing them up, feel free to send me a vague agenda ahead of time. If you don't know what to talk about, say so. We can use that as a topic.
 
 These are some interesting articles I've read about one-on-ones, though I don't necessarily agree with all of the points: [1](https://getlighthouse.com/blog/effective-1-on-1-meetings/), [2](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c). If you have thoughts on either, that might make a good topic to include in a one-on-one.
-
-## Work–life balance
-
-I strongly believe in a healthy work–life balance. This can mean a lot of things: coming into the office a little late because you're a zombie before 10am (guilty...), leaving by 5pm so you can pick your kids up from daycare, not being on call some days because of your religion, taking time off to maintain your health, etc.
-
-Let me know if you need any help to make this work. I don't want you working ridiculous hours, and I don't want you working at the expense of your family/health/beliefs/etc.
-
-If you are unhappy, please let me know.
-
-## On-call
-
-We get paged when something goes wrong with the projects we own. As much as possible we split the pager schedule evenly, but I won't add you to the pager rotation until we're both comfortable with that. As far as scheduling, I tend to just divide it equally among teammates, trying to make sure that people are not on call for long stretches of time or disproportionately on call on weekends or holidays. However, if there is anything affecting when you can be on call (family obligations, religious observances, vacations, etc.) please let me know and we will schedule around them. Similarly, if you are going to be away during a period when you're normally on call, let the team know and we can figure out who can cover you while you're away—you're _not_ expected to stay on call when you're on vacation or otherwise unavailable.
-
-One exception to the normal pager scheduling is if you're hourly. If that's the case, I will ask you which hours you consider to be your "working hours" and will not schedule you outside of this.
-
-If you get paged and something seems to be wrong but you don't know how to address it, please alert other people on the team. First try mentioning it in our team's Slack channel. If it's after-hours you may need to escalate the page. You will never be faulted for doing this; our goal is to make sure all issues are addressed, not to silo all issues to one single team member.
 
 ## Performance
 
@@ -92,7 +70,7 @@ Here are some things I love. If you ever want to strike up casual conversation a
 
 * Tabletop games. I'm a big fan of Dungeons and Dragons, and I love D&D streams and podcasts like The Adventure Zone and Critical Role. I also played Shadowrun waaay back in the day, but that was a disaster.
 
-* Fiber arts. I love to knit, and usually have two or three projects going at a time. I've also dabbled in cross-stitching, though I haven't picked it up recently. 
+* Fiber arts. I love to knit, and usually have two or three projects going at a time. I've also dabbled in cross-stitching, though I haven't picked it up recently.
 
 * (A subset of) video games. I love playing video games but can't play first-person or over-the-shoulder games because they make me motion sick. Still, I love to play games like Stardew Valley, Cook! Serve! Delicious! (1 and 2), Rimworld, Don't Starve, Oxygen Not Included, and others.
 

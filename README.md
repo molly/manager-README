@@ -86,7 +86,7 @@ Here are some things I love. If you ever want to strike up casual conversation a
 
 * Animals. I volunteer in cat rescue and often foster cats and kittens. You'll inevitably hear about Max (Maximus if you're fancy), a former foster cat of mine who is now my permanent cat. I love dogs as well, and I try to meet and get to know as many office dogs as I can. If you see a dog in the office, I'm always excited to hear who's visiting or to go on a walk to go pet an office dog.
 
-![Max](/maximus.jpg)
+::![Max](/maximus.jpg)
 
 * Cooking and baking. I love trying new recipes and new cooking techniques. I always want to hear about new recipes you've tried or want to try, or just chat about cooking and baking in general.
 

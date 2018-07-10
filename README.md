@@ -65,6 +65,8 @@ We get paged when something goes wrong with the projects we own. As much as poss
 
 One exception to the normal pager scheduling is if you're hourly. If that's the case, I will ask you which hours you consider to be your "working hours" and will not schedule you outside of this.
 
+If you get paged and something seems to be wrong but you don't know how to address it, please alert other people on the team. First try mentioning it in our team's Slack channel. If it's after-hours you may need to escalate the page. You will never be faulted for doing this; our goal is to make sure all issues are addressed, not to silo all issues to one single team member.
+
 ## Performance
 
 I will give you feedback on how you're doing in our one-on-ones. If I'm worried about your performance, I will let you know. If you worry that I'm worried about your performance, please let me know.

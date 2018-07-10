@@ -75,6 +75,19 @@ Some weeks, my schedule can be pretty full. Other weeks it's not so bad. If you 
 
 If I'm working from home, you can expect me to be as available as I would be if I was in the office. Although it may feel weird to schedule a brief Zoom meeting when you'd normally just swing by my desk for five minutes, please do so without hesitation if you think chatting face-to-face or screen-sharing will be more useful than textual communication.
 
+## My interests
+Here are some things I love. If you ever want to strike up casual conversation and don't know what to talk about, these are good bets :smiley:
+
+* Animals. I volunteer in cat rescue and often foster cats and kittens. You'll inevitably hear about Max, a former foster cat of mine who is now my permanent cat. I love dogs as well, and I try to meet and get to know as many office dogs as I can. If you see a dog in the office, I'm always excited to hear who's visiting or to go on a walk to go pet an office dog.
+
+* Cooking and baking. I love trying new recipes and new cooking techniques. I always want to hear about new recipes you've tried or want to try, or just chat about cooking and baking in general.
+
+* Tabletop games. I'm a big fan of Dungeons and Dragons, and I love D&D streams and podcasts like The Adventure Zone and Critical Role. I also played Shadowrun waaay back in the day, but that was a disaster.
+
+* Fiber arts. I love to knit, and usually have two or three projects going at a time. I've also dabbled in cross-stitching, though I haven't picked it up recently. 
+
+* (A subset of) video games. I love playing video games but can't play first-person or over-the-shoulder games because they make me motion sick. Still, I love to play games like Stardew Valley, Cook! Serve! Delicious! (1 and 2), Rimworld, Don't Starve, Oxygen Not Included, and others.
+
 ## <a id="diversity">Diversity, and also my schedule</a>
 
 Diversity and inclusion are extremely important to me. I would not necessarily mention this in my README, except that it ties in a bit with my schedule: I choose to work from home at least once a week (or occasionally for half-days) because it helps me manage [my anxiety disorder](https://adaa.org/understanding-anxiety/generalized-anxiety-disorder-gad#), which I prefer to be open about. This will not affect our working relationship–I will be available on Slack, email, Github, or video calls regardless of whether I am in the office or not.

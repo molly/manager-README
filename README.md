@@ -25,6 +25,8 @@ If you can give me this feedback in-person, I'd prefer that. If you're only comf
 
 If you're not comfortable giving me this feedback yourself, I'd love for you to give it to someone above me in the management chain so they can anonymously relay it to me and I can work on it.
 
+Similarly, if you have feedback for a team member, I encourage you to give it; if you're not comfortable doing so, please feel free to relay it to me to pass along.
+
 ## Schedule
 
 I am usually in the office between 11am and 6pm. I am often in the office earlier or later, but with some exceptions these tend to be the hours you can count on finding me. I do usually work from home once or twice a week <a href="#diversity">(more on that later)</a> and I often will head home around 5:30 or 6 and continue working from home after I get dinner going.

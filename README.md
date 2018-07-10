@@ -25,7 +25,9 @@ If you can give me this feedback in-person, I'd prefer that. If you're only comf
 
 If you're not comfortable giving me this feedback yourself, I'd love for you to give it to someone above me in the management chain so they can anonymously relay it to me and I can work on it.
 
-Similarly, if you have feedback for a team member, I encourage you to give it; if you're not comfortable doing so, please feel free to relay it to me to pass along.
+Similarly, if you have feedback for a team member, I encourage you to give it to them directly; if you're not comfortable doing so, please feel free to relay it to me to pass along.
+
+If you want to give direct feedback but aren't sure how or aren't comfortable doing so, let me know and we can talk through it.
 
 ## Schedule
 

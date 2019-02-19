@@ -31,7 +31,7 @@ If you want to give direct feedback but aren't sure how or aren't comfortable do
 
 ## Schedule
 
-I am usually in the office between 11am and 6pm. I am often in the office earlier or later, but with some exceptions these tend to be the hours you can count on finding me. I do usually work from home once or twice a week <a href="#diversity">(more on that later)</a> and I often will head home around 5:30 or 6 and continue working from home after I get dinner going.
+I am usually in the office between 11am and 5:30pm. I am often in the office earlier or later, but with some exceptions these tend to be the hours you can count on finding me. I do usually work from home once or twice a week (and will mark this in my Slack status). On days I'm in the office I often will continue working from home after I get dinner going.
 
 I prefer to do one-on-ones in person if possible, so if you need to work from home on a day we're scheduled for a one-on-one and rescheduling is an option, please let me know so I can reschedule it, or reschedule it yourself during an open slot in my calendar.
 

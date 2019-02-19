@@ -29,10 +29,6 @@ Similarly, if you have feedback for a team member, I encourage you to give it to
 
 If you want to give direct feedback but aren't sure how or aren't comfortable doing so, let me know and we can talk through it.
 
-## Performance
-
-I will give you feedback on how you're doing in our one-on-ones. If I'm worried about your performance, I will let you know. If you worry that I'm worried about your performance, please let me know.
-
 ## One-on-ones
 
 I will put thirty minutes on your calendar each week for a one-on-one. If you need more time, let me know and I will adjust. I will probably schedule our first one-on-one for an hour just to be sure we have time to go over the team mission and other introductory things; don't feel the need to prepare for it.
@@ -42,6 +38,10 @@ One-on-ones are _your time_. I will probably have some things to discuss with yo
 I encourage you to write down some things throughout the week that you want to chat about if you think that will help; it can be hard to think of or bring up things in the moment. If you have things you want to talk about but struggle with bringing them up, feel free to send me a vague agenda ahead of time. If you don't know what to talk about, say so. We can use that as a topic.
 
 These are some interesting articles I've read about one-on-ones, though I don't necessarily agree with all of the points: [1](https://getlighthouse.com/blog/effective-1-on-1-meetings/), [2](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c). If you have thoughts on either, that might make a good topic to include in a one-on-one.
+
+### Performance
+
+I will give you feedback on how you're doing in our one-on-ones. If I'm worried about your performance, I will let you know. If you worry that I'm worried about your performance, please let me know.
 
 ## My schedule
 

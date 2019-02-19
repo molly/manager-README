@@ -29,11 +29,9 @@ Similarly, if you have feedback for a team member, I encourage you to give it to
 
 If you want to give direct feedback but aren't sure how or aren't comfortable doing so, let me know and we can talk through it.
 
-## Schedule
+## Performance
 
-I am usually in the office between 11am and 5:30pm. I am often in the office earlier or later, but with some exceptions these tend to be the hours you can count on finding me. I do usually work from home once or twice a week (and will mark this in my Slack status). On days I'm in the office I often will continue working from home after I get dinner going.
-
-I prefer to do one-on-ones in person if possible, so if you need to work from home on a day we're scheduled for a one-on-one and rescheduling is an option, please let me know so I can reschedule it, or reschedule it yourself during an open slot in my calendar.
+I will give you feedback on how you're doing in our one-on-ones. If I'm worried about your performance, I will let you know. If you worry that I'm worried about your performance, please let me know.
 
 ## One-on-ones
 
@@ -45,9 +43,13 @@ I encourage you to write down some things throughout the week that you want to c
 
 These are some interesting articles I've read about one-on-ones, though I don't necessarily agree with all of the points: [1](https://getlighthouse.com/blog/effective-1-on-1-meetings/), [2](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c). If you have thoughts on either, that might make a good topic to include in a one-on-one.
 
-## Performance
+## My schedule
 
-I will give you feedback on how you're doing in our one-on-ones. If I'm worried about your performance, I will let you know. If you worry that I'm worried about your performance, please let me know.
+When I am working from the office, you can usually expect me to be around between 11am and 5:30pm. I am often in earlier or later than that, but with some exceptions these tend to be the hours you can count on finding me. I often will continue working from home in the evenings on in-office days once I get dinner going.
+
+I usually work from home once or twice a week, and will mark this in my Slack status 🏡. 
+
+I prefer to do one-on-ones in person if possible, so if you need to work from home on a day we're scheduled for a one-on-one and rescheduling is an option, please let me know so I can reschedule it, or reschedule it yourself during an open slot in my calendar.
 
 ## If you need something
 

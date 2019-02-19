@@ -72,7 +72,7 @@ Here are some things I love. If you ever want to strike up casual conversation a
 
 * Cooking and baking. I love trying new recipes and new cooking techniques. I always want to hear about new recipes you've tried or want to try, or just chat about cooking and baking in general.
 
-* Podcasts (and tabletop games). I love D&D and comedy podcasts. My favorites are [_My Brother, My Brother, and Me_](https://www.maximumfun.org/shows/my-brother-my-brother-and-me), [_The Adventure Zone_](https://www.maximumfun.org/shows/adventure-zone) and [_Critical Role_](https://critrole.com/).
+* Podcasts (and tabletop games). I love D&D and comedy podcasts. My favorites are [_My Brother, My Brother, and Me_](https://www.maximumfun.org/shows/my-brother-my-brother-and-me), [_The Adventure Zone_](https://www.maximumfun.org/shows/adventure-zone), and [_Critical Role_](https://critrole.com/).
 
 * Fiber arts. I love to knit, and usually have two or three projects going at a time. I've also dabbled in cross-stitching, though I haven't picked it up recently.
 

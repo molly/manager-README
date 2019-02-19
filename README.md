@@ -51,6 +51,10 @@ I usually work from home once or twice a week, and will mark this in my Slack st
 
 I prefer to do one-on-ones in person if possible, so if you need to work from home on a day we're scheduled for a one-on-one and rescheduling is an option, please let me know so I can reschedule it, or reschedule it yourself during an open slot in my calendar.
 
+### Diversity and inclusion
+
+Diversity and inclusion are extremely important to me. I would not necessarily mention this in my README, except that it ties in a bit with my schedule: I choose to work from home at least once a week (or occasionally for half-days) because it helps me manage [my anxiety disorder](https://adaa.org/understanding-anxiety/generalized-anxiety-disorder-gad#), which I prefer to be open about. This will not affect our working relationship–I will be available on Slack, email, Github, or video calls regardless of whether I am in the office or not.
+
 ## If you need something
 
 Some weeks, my schedule can be pretty full. Other weeks it's not so bad. If you need to chat, you have a few options.
@@ -75,10 +79,6 @@ Here are some things I love. If you ever want to strike up casual conversation a
 * Fiber arts. I love to knit, and usually have two or three projects going at a time. I've also dabbled in cross-stitching, though I haven't picked it up recently.
 
 * (A subset of) video games. I love playing video games but can't play first-person or over-the-shoulder games because they make me motion sick. Still, I love to play games like Stardew Valley, Cook! Serve! Delicious! (1 and 2), Rimworld, Don't Starve, Oxygen Not Included, and others.
-
-## <a id="diversity">Diversity, and also my schedule</a>
-
-Diversity and inclusion are extremely important to me. I would not necessarily mention this in my README, except that it ties in a bit with my schedule: I choose to work from home at least once a week (or occasionally for half-days) because it helps me manage [my anxiety disorder](https://adaa.org/understanding-anxiety/generalized-anxiety-disorder-gad#), which I prefer to be open about. This will not affect our working relationship–I will be available on Slack, email, Github, or video calls regardless of whether I am in the office or not.
 
 ## Caveat
 

@@ -51,13 +51,11 @@ I usually work from home once or twice a week, and will mark this in my Slack st
 
 I prefer to do one-on-ones in person if possible, so if you need to work from home on a day we're scheduled for a one-on-one and rescheduling is an option, please let me know so I can reschedule it, or reschedule it yourself during an open slot in my calendar.
 
-### Diversity and inclusion
+### A note on diversity and inclusion
 
-Diversity and inclusion are extremely important to me. I would not necessarily mention this in my README, except that it ties in a bit with my schedule: I choose to work from home at least once a week (or occasionally for half-days) because it helps me manage [my anxiety disorder](https://adaa.org/understanding-anxiety/generalized-anxiety-disorder-gad#), which I prefer to be open about. This will not affect our working relationship–I will be available on Slack, email, Github, or video calls regardless of whether I am in the office or not.
+Diversity and inclusion are extremely important to me. I would not necessarily mention this in my README, except that it ties in a bit with my schedule: I choose to work from home at least once a week (or occasionally for half-days) because it helps me manage [my anxiety disorder](https://adaa.org/understanding-anxiety/generalized-anxiety-disorder-gad#), which I prefer to be open about. This will not affect our working relationship–I will be available on Slack, email, Github, or video calls regardless of whether I am in the office or not (see below).
 
 ## If you need something
-
-Some weeks, my schedule can be pretty full. Other weeks it's not so bad. If you need to chat, you have a few options.
 
 1.  Snag me at my desk. An important thing to know about me: if I have headphones on, it does _not_ mean I am "in the zone" or expect not to be interrupted (I'm probably just enjoying some music). Feel free to grab my attention (preferably by waving in my periphery or tapping my desk—I get a little startled sometimes if someone unexpectedly taps me :neutral_face:) If I'm about to have to run off for a meeting or somesuch, I'll let you know and figure out a better time to chat.
 2.  Slack me or email me. Even if you want an in-person meeting, just message me to let me know you want to talk and I'll make time. If you would rather talk about something over email or message, that's fine too.

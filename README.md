@@ -57,7 +57,7 @@ Diversity and inclusion are extremely important to me. I would not necessarily m
 
 ## If you need something
 
-1.  Snag me at my desk. An important thing to know about me: if I have headphones on, it does _not_ mean I am "in the zone" and expect not to be interrupted (I'm probably just enjoying some music). Feel free to grab my attention (preferably by waving in my periphery or tapping my desk). If I'm about to have to run off for a meeting or somesuch, I'll let you know and figure out a better time to chat.
+1.  Snag me at my desk. If I have headphones on, it does _not_ mean I am "in the zone" and expect not to be interrupted. I'm probably just enjoying some music. Feel free to grab my attention, preferably by waving in my periphery or tapping my desk. If I'm about to have to run off for a meeting or somesuch, I'll let you know and figure out a better time to chat.
 2.  Slack me or email me. Even if you want an in-person meeting, just message me to let me know you want to talk and I'll make time. If you would rather talk about something over email or message, that's fine too.
 3.  Throw something on my calendar. If I am scheduled for an interview or something else I can't reschedule and you invite me to a meeting, I may chat with you and reschedule. If you see that I've blocked off the day or time block as "meeting-free", that does not apply to you—it's more to discourage folks from scheduling non-urgent meetings that day that could be scheduled otherwise. If you need to talk, schedule over this as much as you need.
 

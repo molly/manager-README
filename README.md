@@ -51,6 +51,12 @@ I usually work from home once or twice a week, and will mark this in my Slack st
 
 I prefer to do one-on-ones in person if possible, so if you need to work from home on a day we're scheduled for a one-on-one and rescheduling is an option, please let me know so I can reschedule it, or reschedule it yourself during an open slot in my calendar.
 
+### After-hours communication
+
+I will get a sense of your normal working hours as we begin working together, and I will make a strong effort not to message you outside of these hours because I know many people have Slack notifications sent to their phone. I will sometimes send emails outside of your working hours (especially if we're in different time zones), as emails don't tend to notify people quite as intrusively. You should not feel obligated to read or respond to any emails or messages you receive from me outside of your normal hours. If you are receiving after-hours messages from me with any frequency, please let me know—it may mean I'm misunderstanding the hours you normally work.
+
+If for any reason I do urgently need you outside of your normal working hours, I will page you. This will happen _extremely_ rarely (if ever).
+
 ### A note on diversity and inclusion
 
 Diversity and inclusion are extremely important to me. I would not necessarily mention this in my README, except that it ties in a bit with my schedule: I choose to work from home at least once a week (or occasionally for half-days) because it helps me manage [my anxiety disorder](https://adaa.org/understanding-anxiety/generalized-anxiety-disorder-gad#), which I prefer to be open about. This will not affect our working relationship–I will be available on Slack, email, Github, or video calls regardless of whether I am in the office or not (see below).
@@ -79,3 +85,7 @@ Here are some things I love. If you ever want to strike up casual conversation a
 ## Caveat
 
 Take this document with a grain of salt: I wrote it! I have never experienced having me as a manager. If I'm your TL and something here seems off, open a pull request or issue, or (probably more comfortably) bring it up to me in one-on-one or over Slack.
+
+## Expectations of you
+
+This document is meant to focus on how I work and what to expect from me. We will discuss expectations I have of you and the rest of the team soon after we begin working together, and I will link you to an internal onboarding document with some HubSpot-specific onboarding information.

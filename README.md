@@ -69,19 +69,6 @@ Diversity and inclusion are extremely important to me. I would not necessarily m
 
 If I'm working from home, you can expect me to be as available as I would be if I was in the office. Although it may feel weird to schedule a brief Zoom meeting when you'd normally just swing by my desk for five minutes, please do so without hesitation if you think chatting face-to-face or screen-sharing will be more useful than textual communication.
 
-## My interests
-Here are some things I love. If you ever want to strike up casual conversation and don't know what to talk about, these are good bets :smiley:
-
-* Animals. I volunteer in cat rescue and often foster cats and kittens. You'll inevitably hear about Max (Maximus if you're fancy), a former foster cat of mine who is now my permanent cat. I love dogs as well, and I try to meet and get to know as many office dogs as I can. If you see a dog in the office, I always like being told about them so I can go say hi.
-
-![Max](/maximus.jpg)
-
-* Cooking and baking. I love trying new recipes and new cooking techniques. I always want to hear about new recipes you've tried or want to try, or just chat about cooking and baking in general.
-
-* Podcasts (and tabletop games). I love D&D and comedy podcasts. My favorites are [_My Brother, My Brother, and Me_](https://www.maximumfun.org/shows/my-brother-my-brother-and-me), [_The Adventure Zone_](https://www.maximumfun.org/shows/adventure-zone), and [_Critical Role_](https://critrole.com/).
-
-* Fiber arts. I love to knit, and usually have two or three projects going at a time. I've also dabbled in cross-stitching, though I haven't picked it up recently.
-
 ## Caveat
 
 Take this document with a grain of salt: I wrote it! I have never experienced having me as a manager. If I'm your TL and something here seems off, open a pull request or issue, or (probably more comfortably) bring it up to me in one-on-one or over Slack.
@@ -89,3 +76,12 @@ Take this document with a grain of salt: I wrote it! I have never experienced ha
 ## Expectations of you
 
 This document is meant to focus on how I work and what to expect from me. We will discuss expectations I have of you and the rest of the team soon after we begin working together, and I will link you to an internal onboarding document with some HubSpot-specific onboarding information.
+
+## My interests
+Here are some things I love. If you ever want to strike up casual conversation and don't know what to talk about, these are good bets :smiley:
+
+* Animals. I often foster cats and kittens and you'll inevitably hear about Max (Maximus if you're fancy), a former foster cat of mine who is now my permanent cat. I love dogs as well, and I try to meet and get to know as many office dogs as I can. If you see a dog in the office, I always like being told about them so I can go say hi.
+
+![Max](/maximus.jpg)
+
+* Cooking and baking. I love trying new recipes and new cooking techniques. I always want to hear about new recipes you've tried or want to try, or just chat about cooking and baking in general. I also want to know about your favorite baked goods for celebratory purposes.

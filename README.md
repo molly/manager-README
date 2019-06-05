@@ -80,8 +80,8 @@ This document is meant to focus on how I work and what to expect from me. We wil
 ## My interests
 Here are some things I love. If you ever want to strike up casual conversation and don't know what to talk about, these are good bets :smiley:
 
-* Animals. I often foster cats and kittens and you'll inevitably hear about Max (Maximus if you're fancy), a former foster cat of mine who is now my permanent cat. I love dogs as well, and I try to meet and get to know as many office dogs as I can. If you see a dog in the office, I always like being told about them so I can go say hi.
+* Animals. I used to foster cats and kittens, and you'll inevitably hear about Max and Ruth, both former foster cats of mine who are now my permanent cats. I love dogs as well, and I try to meet and get to know as many office dogs as I can. If you see a dog in the office, I always like being told about them so I can go say hi.
 
-![Max](/maximus.jpg)
+![Max and Ruth](/max-and-ruth.jpg)
 
 * Cooking and baking. I love trying new recipes and new cooking techniques. I always want to hear about new recipes you've tried or want to try, or just chat about cooking and baking in general. I also want to know about your favorite baked goods for celebratory purposes.

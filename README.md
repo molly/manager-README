@@ -57,6 +57,8 @@ I will get a sense of your normal working hours as we begin working together, an
 
 If for any reason I do urgently need you outside of your normal working hours, I will page you. This will happen _extremely_ rarely (if ever).
 
+Similarly, if you email or Slack me outside of my working hours, I may not respond quickly. I do try to keep up with notifications in case there's anything urgent, but if I read a message and it's non-urgent, I may leave it until then. If you have something non-urgent you want to tell me and it's outside of my work hours, I don't mind if you Slack me, though I always appreciate an explicit note that it's non-urgent! If you need me urgently outside of work hours, paging me is the best way to get hold of me, though you can always try Slack too first.
+
 ### A note on diversity and inclusion
 
 Diversity and inclusion are extremely important to me. I would not necessarily mention this in my README, except that it ties in a bit with my schedule: I choose to work from home at least once a week (or occasionally for half-days) because it helps me manage [my anxiety disorder](https://adaa.org/understanding-anxiety/generalized-anxiety-disorder-gad#), which I prefer to be open about. This will not affect our working relationship–I will be available on Slack, email, Github, or video calls regardless of whether I am in the office or not (see below).

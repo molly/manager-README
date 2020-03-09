@@ -23,7 +23,7 @@ If you have feedback for me, please give it. It could be something you liked and
 
 If you can give me this feedback in-person, I'd prefer that. If you're only comfortable kicking off a discussion with an email or a Slack message, I would rather you do that than not bring it up at all.
 
-If you're not comfortable giving me this feedback yourself, I'd love for you to give it to someone above me in the management chain so they can anonymously relay it to me and I can work on it.
+If you're not comfortable giving me this feedback yourself, I'd love for you to give it to someone above me in the management chain so they can anonymously relay it to me, and I can work on it.
 
 Similarly, if you have feedback for a team member, I encourage you to give it to them directly; if you're not comfortable doing so, please feel free to relay it to me to pass along.
 

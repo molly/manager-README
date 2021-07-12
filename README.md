@@ -84,7 +84,8 @@ Here are some things I love. If you ever want to strike up casual conversation a
 
 * Animals. I used to foster cats and kittens, and you'll inevitably hear about Max and Ruth, both former foster cats of mine who are now my permanent cats. You'll almost certainly meet my dog Atlas on Zoom, since he usually hangs out in my office during the day. When I'm in the office I try to meet and get to know as many office dogs as I can. If you see a dog in the office, I always like being told about them so I can go say hi.
 
-![Max and Ruth](/img/max-and-ruth.jpg)
-![Atlas](/img/atlas.jpeg)
+<img src="/img/max-and-ruth.jpg" alt="Max and Ruth sitting on a couch" width="400px">
+<img src="/img/atlas.jpeg" alt="Atlas" width="300px">
 
 * Cooking and baking. I love trying new recipes and new cooking techniques. I always want to hear about new recipes you've tried or want to try, or just chat about cooking and baking in general. I also want to know about your favorite baked goods for celebratory purposes.
+

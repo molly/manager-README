@@ -87,5 +87,7 @@ Here are some things I love. If you ever want to strike up casual conversation a
 <img src="/img/max-and-ruth.jpg" alt="Max and Ruth sitting on a couch" width="400px">
 <img src="/img/atlas.jpeg" alt="Atlas" width="300px">
 
+* I love to read, both fiction and non-fiction. I keep lists of books I'm reading [here](https://mollywhite.net/reading), and am always looking for suggestions.
+
 * Cooking and baking. I love trying new recipes and new cooking techniques. I always want to hear about new recipes you've tried or want to try, or just chat about cooking and baking in general. I also want to know about your favorite baked goods for celebratory purposes.
 

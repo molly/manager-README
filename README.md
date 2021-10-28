@@ -17,8 +17,6 @@ These are in approximate order of importance. If you are not successful and happ
 
 Additionally: My job is _not_ to tell you exactly what to do and how to do it. It is also not to be the "official decision maker" for our team. When I asked some other people for feedback on this README, one asked about this point, and then said something I thought was poignant: "I am _accountable_ for the decisions the team make, even if I’m not the one making them most of the time."
 
-I might have thoughts on your code, and I expect you to have thoughts on mine. In the end, you own your code and if you have a good reason for doing something, you should do it; "use good judgment" is a key part of the HubSpot culture, and it applies to code as much as everything else.
-
 ## Feedback
 
 If you have feedback for me, please give it. It could be something you liked and would like to see more of, something you thought I could do better, something you thought I totally screwed up, or something that doesn't fit in any of these categories. Even if you think it might not be the case, I _do_ want to hear it. And if you think I don't want to hear it, I'd love to hear why you feel that way.
@@ -53,7 +51,7 @@ This readme used to have a section on my in-office schedule, but so much has cha
 
 ### After-hours communication
 
-I will get a sense of your normal working hours as we begin working together, and I will make a strong effort not to message you outside of these hours because I know many people have Slack notifications sent to their phone. I will sometimes send emails outside of your working hours (especially if we're in different time zones), as emails don't tend to notify people quite as intrusively. You should not feel obligated to read or respond to any emails or messages you receive from me outside of your normal hours. If you are receiving after-hours messages from me with any frequency, please let me know—it may mean I'm misunderstanding the hours you normally work.
+I will get a sense of your normal working hours as we begin working together, and I will make a strong effort not to message you outside of these hours because I know many people have Slack notifications sent to their phone. I will sometimes send emails outside of your working hours (especially if we're in different time zones), as emails don't tend to notify people quite as intrusively; you should not feel obligated to respond until you are working. With Slack I tend to use the "schedule message" functionality if I am sending a message outside of your usual working times, since it tends to trigger a notification. If you are receiving after-hours Slack messages from me with any frequency, please let me know—it may mean I'm misunderstanding the hours you normally work.
 
 If for any reason I do urgently need you outside of your normal working hours, I will page you. This will happen _extremely_ rarely (if ever).
 
@@ -67,7 +65,7 @@ Diversity and inclusion are extremely important to me. I would not necessarily m
 
 1.  Snag me at my desk. If I have headphones on, it does _not_ mean I am "in the zone" and expect not to be interrupted. I'm probably just enjoying some music. Feel free to grab my attention, preferably by waving in my periphery or tapping my desk. If I'm about to have to run off for a meeting or somesuch, I'll let you know and figure out a better time to chat.
 2.  Slack me or email me. Even if you want an in-person or Zoom meeting, just message me to let me know you want to talk and I'll make time. If you would rather talk about something over email or message, that's fine too.
-3.  Throw something on my calendar. If I am scheduled for an interview or something else I can't reschedule and you invite me to a meeting, I may chat with you and reschedule. If you see that I've blocked off the day or time block as "meeting-free", that does not apply to you—it's more to discourage folks from scheduling non-urgent meetings that day that could be scheduled otherwise. If you need to talk, schedule over this as much as you need.
+3.  Throw something on my calendar. If I am scheduled for an interview or something else I can't reschedule and you invite me to a meeting, I may chat with you and reschedule. If you see that I've blocked off the day or time block as "meeting-free", that does not apply to you—it's more to discourage folks outside the team from scheduling non-urgent meetings that day that could be scheduled otherwise. If you need to talk, schedule over this as much as you need.
 
 If I'm working from home, you can expect me to be as available as I would be if I was in the office. Although it may feel weird to schedule a brief Zoom meeting when you'd normally just swing by my desk for five minutes, please do so without hesitation if you think chatting face-to-face or screen-sharing will be more useful than textual communication.
 
@@ -89,5 +87,4 @@ Here are some things I love. If you ever want to strike up casual conversation a
 
 * I love to read, both fiction and non-fiction. I keep lists of books I'm reading [here](https://mollywhite.net/reading), and am always looking for suggestions.
 
-* Cooking and baking. I love trying new recipes and new cooking techniques. I always want to hear about new recipes you've tried or want to try, or just chat about cooking and baking in general. I also want to know about your favorite baked goods for celebratory purposes.
-
+* Cooking and baking. I love trying new recipes and new cooking techniques. I always want to hear about new recipes you've tried or want to try, or just chat about cooking and baking in general.

@@ -43,11 +43,9 @@ I will give you feedback on how you're doing continuously, including in our one-
 
 ## My schedule
 
-Because of the coronavirus pandemic, I am currently working entirely remotely. At some future point when it is safe to be in the office again, I will be a [@flex](https://www.hubspot.com/careers-blog/future-of-work-hybrid) employee, meaning that I will work from the office once or twice a week and otherwise will work from home.
+I currently work entirely remotely. I generally consider my work hours to be 10am to 6pm, though this varies somewhat depending on meetings. If I am not available during my normal hours for some reason, I will mark it in my Slack status (and on my calendar if I am out for a day or more).
 
-When working from home, I generally consider my work hours to be 10am to 6pm, though this varies somewhat depending on meetings. If I am not available during these hours for some reason, I will mark it in my Slack status (and on my calendar if I am out for a day or more).
-
-This readme used to have a section on my in-office schedule, but so much has changed since I last worked in the office regularly that I have removed it and will update it when that becomes an option again.
+This readme used to have a section on my in-office schedule, but so much has changed since I last worked in the office regularly that I have removed it and will update it if and when that becomes an option again.
 
 ### After-hours communication
 
@@ -57,17 +55,12 @@ If for any reason I do urgently need you outside of your normal working hours, I
 
 Similarly, if you email or Slack me outside of my working hours, I may not respond quickly. I do try to keep up with notifications in case there's anything urgent, but if I read a message and it's non-urgent, I may leave it until the next working day. If you have something non-urgent you want to tell me and it's outside of my work hours, I don't mind if you Slack me, though I always appreciate an explicit note that it's non-urgent! If you need me urgently outside of work hours, paging me is the best way to get hold of me, though you can always try Slack too first.
 
-### A note on diversity and inclusion
-
-Diversity and inclusion are extremely important to me. I would not necessarily mention this in my README, except that it ties in a bit with my schedule: I choose to work from home part of the time because it helps me manage [my anxiety disorder](https://adaa.org/understanding-anxiety/generalized-anxiety-disorder-gad#), which I prefer to be open about. This will not affect our working relationship–I will be available on Slack, email, Github, or video calls regardless of whether I am in the office or not (see below).
-
 ## If you need something
 
-1.  Snag me at my desk. If I have headphones on, it does _not_ mean I am "in the zone" and expect not to be interrupted. I'm probably just enjoying some music. Feel free to grab my attention, preferably by waving in my periphery or tapping my desk. If I'm about to have to run off for a meeting or somesuch, I'll let you know and figure out a better time to chat.
-2.  Slack me or email me. Even if you want an in-person or Zoom meeting, just message me to let me know you want to talk and I'll make time. If you would rather talk about something over email or message, that's fine too.
-3.  Throw something on my calendar. If I am scheduled for an interview or something else I can't reschedule and you invite me to a meeting, I may chat with you and reschedule. If you see that I've blocked off the day or time block as "meeting-free", that does not apply to you—it's more to discourage folks outside the team from scheduling non-urgent meetings that day that could be scheduled otherwise. If you need to talk, schedule over this as much as you need.
+1.  Slack me or set up an impromptu Zoom meeting.
+2.  Throw something on my calendar. If I am scheduled for an interview or something else I can't reschedule and you invite me to a meeting, I may chat with you and reschedule. If you see that I've blocked off the day or time block as "meeting-free", that does not apply to you—it's more to discourage folks outside the team from scheduling non-urgent meetings that day that could be scheduled otherwise. If you need to talk, schedule over this as much as you need.
 
-If I'm working from home, you can expect me to be as available as I would be if I was in the office. Although it may feel weird to schedule a brief Zoom meeting when you'd normally just swing by my desk for five minutes, please do so without hesitation if you think chatting face-to-face or screen-sharing will be more useful than textual communication.
+Even though I work from home now, you can expect me to be as available as I would be if I was in the office. Although it may feel weird to schedule a brief Zoom meeting when you'd normally just swing by my desk for five minutes, please do so without hesitation if you think chatting face-to-face or screen-sharing will be more useful than textual communication.
 
 ## Caveat
 
